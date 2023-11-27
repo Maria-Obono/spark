@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# spark
-=======
 # spark
 Url: https://www.kaggle.com/competitions/titanic/dataLinks to an external site.
 
@@ -16,5 +13,3 @@ Please note: Do not include the test.csv while training the model. Also do not u
  
 
 The classifier must have an accuracy of 70 % for 100 pts.
-
->>>>>>> 2c0c5b8e15bfc8f4c1c01e0fc27b0ff396dc9bc7
